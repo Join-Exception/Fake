@@ -1,14 +1,1 @@
 Start
-Update 0 - Commit 1
-Update -1 - Commit 1
-Update -2 - Commit 1
-Update -3 - Commit 1
-Update -4 - Commit 1
-Update -5 - Commit 1
-Update -6 - Commit 1
-Update -7 - Commit 1
-Update -8 - Commit 1
-Update -9 - Commit 1
-Update -10 - Commit 1
-Update -11 - Commit 1
-Update -12 - Commit 1
